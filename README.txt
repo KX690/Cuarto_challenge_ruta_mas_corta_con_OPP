@@ -1,0 +1,2 @@
+	El archivo principal es OOP_Rutas.py. Para probar las diferencias entre BFS y A-star, se recomienda usar la opción 2 en la selección de mapas. De esa forma, se puede utilizar siempre el mismo mapa y ver las diferencias entre cada tipo de búsqueda o tipo de obstáculos.
+	En el caso de elegir la busqueda por BFS considera todo los obstaculos como si no son posibles atravesar.
